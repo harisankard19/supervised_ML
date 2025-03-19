@@ -1,0 +1,11 @@
+canonical_smiles
+CCCCCCCNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C
+CN1CC[C@@]2(C)c3cc(OC(=O)NCCN4CCOCC4)ccc3N(C)[C@@H]12
+NC(=O)c1cc[n+](COC[n+]2ccccc2/C=N/O)cc1.[Cl-].[Cl-]
+CNC(NCCNCc1ccc(CN(C)C)o1)=C(C#N)C#N
+CNC(NCCNCc1ccc(CN(C(C)C)C(C)C)o1)=C(C#N)C#N
+CC(C)N(CCS/C(=N\O)C(=O)c1ccc(Cl)cc1)C(C)C.Cl
+C[n+]1ccccc1C=NO
+CCN(CC)CCS/C(=N\O)C(=O)c1ccccc1.Cl
+CC(C(=O)O)N
+Cc1ccccc1N
